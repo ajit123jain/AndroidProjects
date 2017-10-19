@@ -44,6 +44,7 @@ public class AuthActivity extends AppCompatActivity {
     private TextView mErrorText;
     private String mVerificationId ;
     private PhoneAuthProvider.ForceResendingToken mResendToken;
+    private int btnType = 0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -53,8 +54,6 @@ public class AuthActivity extends AppCompatActivity {
 
         mPhoneLayout = (LinearLayout)findViewById(R.id.phoneLayout);
         mCodeLayout = (LinearLayout)findViewById(R.id.codeLayout);
-
-
 
         mPhoneText = (EditText)findViewById(R.id.phoneEditText);
         mCodeText = (EditText)findViewById(R.id.codeEditText);
@@ -68,15 +67,27 @@ public class AuthActivity extends AppCompatActivity {
         mSendButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                mPhoneProgressBar.setVisibility(View.VISIBLE);
-                mPhoneText.setEnabled(false);
-                mSendButton.setEnabled(false);
+
+                if(btnType==0) {
+                    mPhoneProgressBar.setVisibility(View.VISIBLE);
+                    mPhoneText.setEnabled(false);
+                    mSendButton.setEnabled(false);
+
+                    String phoneNumber = mPhoneText.getText().toString();
+
+                    PhoneAuthProvider.getInstance().verifyPhoneNumber(phoneNumber, 60,
+                            TimeUnit.SECONDS, AuthActivity.this, mCallbacks);
 
 
-                String phoneNumber = mPhoneText.getText().toString();
+                }
+                else{
+                   mSendButton.setEnabled(false);
+                   mCodeProgressBar.setVisibility(View.VISIBLE);
 
-                PhoneAuthProvider.getInstance().verifyPhoneNumber(phoneNumber, 60,
-                        TimeUnit.SECONDS,AuthActivity.this,mCallbacks);
+                   String verificationCode =  mCodeText.getText().toString();
+                    PhoneAuthCredential credential = new PhoneAuthCredential(mVerificationId,verificationCode);
+                    signInWithPhoneAuthCredential(credential);
+                }
 
              }
         });
@@ -89,7 +100,7 @@ public class AuthActivity extends AppCompatActivity {
             @Override
             public void onVerificationFailed(FirebaseException e) {
                  mErrorText.setText("There was some error");
-                mErrorText.setVisibility(View.VISIBLE);
+                 mErrorText.setVisibility(View.VISIBLE);
             }
             @Override
             public void onCodeSent(String verificationId,
@@ -100,11 +111,13 @@ public class AuthActivity extends AppCompatActivity {
                 Log.d(TAG, "onCodeSent:" + verificationId);
 
                 // Save verification ID and resending token so we can use them later
+                btnType =  1;
                 mVerificationId = verificationId;
                 mResendToken = token;
                 mPhoneProgressBar.setVisibility(View.INVISIBLE);
                 mCodeLayout.setVisibility(View.VISIBLE);
                 mSendButton.setText("Verify Code");
+                mSendButton.setEnabled(true);
 
             }
         };
@@ -131,6 +144,8 @@ public class AuthActivity extends AppCompatActivity {
                             Log.w(TAG, "signInWithCredential:failure", task.getException());
                             if (task.getException() instanceof FirebaseAuthInvalidCredentialsException) {
                                 // The verification code entered was invalid
+
+
                             }
                         }
                     }
