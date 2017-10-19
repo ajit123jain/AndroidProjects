@@ -22,7 +22,7 @@
             android:layout_weight="5"
             android:layout_height="wrap_content"
             android:id="@+id/phoneEditText"
-            android:hint="Enter Mobile Number"/>
+            android:hint="+91 1234567890"/>
         <ProgressBar
             android:layout_width="0dp"
             android:layout_weight="1"
