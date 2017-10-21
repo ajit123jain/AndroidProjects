@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">AndroidWirelessConnection</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Bluetooth">Bluetooth</string>
+    <string name="title_activity_bluetooth">BluetoothActivity</string>
+    <string name="title_activity_wi_fi">WiFiActivity</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="title_activity_nfc">NfcActivity</string>
+    <string name="nfc">NFC</string>
+    <string name="title_activity_mobile_data">MobileDataActivity</string>
+    <string name="mobile_data">Mobile Data</string>
+
 </resources>
