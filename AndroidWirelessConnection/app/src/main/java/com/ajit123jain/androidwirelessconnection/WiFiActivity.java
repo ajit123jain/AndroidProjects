@@ -1,5 +1,6 @@
 package com.ajit123jain.androidwirelessconnection;
 
+import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -25,6 +26,7 @@ public class WiFiActivity extends Activity {
     private BroadcastReceiver wifiReciever;
     private ArrayAdapter adapter;
 
+    @SuppressLint("WifiManagerLeak")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
