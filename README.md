@@ -20,5 +20,15 @@ All Android Project that will cover basics of android.
 - Updated the listby changing text
 - [Download Apk](https://drive.google.com/open?id=0B6r8JHHtCwSaenVSek51Tk1hV0E)
 
+## [Android Wireless Connection](AndroidWirelessConnection)
+- First See all wireless connection way like 
+- Bluetooth , Wifi , Nfc , MobileData 
+- On/Off the Bluetooth and find all the devices 
+- On/Off Wifi and find all the devices list
+- [Download Apk](https://drive.google.com/open?id=0B6r8JHHtCwSacWc4dV9XV1VRVEE)
+
+
+
+
 
 
