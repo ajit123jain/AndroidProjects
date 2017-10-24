@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/merged/debug/layout/activity_fullscreen_view.xml",
+        "source": "/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/res/layout/activity_fullscreen_view.xml"
+    },
+    {
+        "merged": "/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/merged/debug/layout/activity_grid_view.xml",
+        "source": "/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/res/layout/activity_grid_view.xml"
+    },
+    {
+        "merged": "/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/merged/debug/layout/layout_fullscreen_image.xml",
+        "source": "/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/res/layout/layout_fullscreen_image.xml"
+    }
+]

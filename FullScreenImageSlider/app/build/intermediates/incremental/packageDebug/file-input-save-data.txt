@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Wed Oct 25 00:16:28 IST 2017
+2.base=/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/man.jpg
+5.set=ANDROID_RESOURCE
+3.base=/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/resources-debug.ap_/res/layout/layout_fullscreen_image.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/resources-debug.ap_/res/drawable/button_background.xml
+4.base=/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/resources-debug.ap_
+7.file=/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+7.set=DEX
+count=11
+0.file=/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_fullscreen_view.xml
+5.base=/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/resources-debug.ap_
+8.file=/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_grid_view.xml
+4.set=ANDROID_RESOURCE
+6.base=/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/resources-debug.ap_/res/menu-v11/grid_view.xml
+9.set=ANDROID_RESOURCE
+9.file=/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+10.base=/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+2.file=/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/resources-debug.ap_/res/menu/grid_view.xml
+6.set=ANDROID_RESOURCE
+0.base=/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/resources-debug.ap_
+8.base=/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/resources-debug.ap_
+9.base=/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

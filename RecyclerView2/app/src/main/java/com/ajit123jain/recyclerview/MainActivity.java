@@ -53,10 +53,19 @@ public class MainActivity extends AppCompatActivity {
         data.add(new Data( R.drawable.imag3, "Image 3"));
         data.add(new Data( R.drawable.imag4, "Image 1"));
         data.add(new Data( R.drawable.imag6, "Image 2"));
-        data.add(new Data( R.drawable.imag7, "Image 3"));
-        data.add(new Data( R.drawable.imag8, "Image 1"));
-        data.add(new Data( R.drawable.imag9, "Image 2"));
-        data.add(new Data( R.drawable.imag10, "Image 3"));
+        data.add(new Data( R.drawable.imag5, "Image 3"));
+        data.add(new Data( R.drawable.imag6, "Image 1"));
+        data.add(new Data( R.drawable.imag7, "Image 2"));
+        data.add(new Data( R.drawable.imag8, "Image 3"));
+        data.add(new Data( R.drawable.imag9, "Image 1"));
+        data.add(new Data( R.drawable.imag10, "Image 2"));
+        data.add(new Data( R.drawable.imag11, "Image 3"));
+        data.add(new Data( R.drawable.imag12, "Image 1"));
+        data.add(new Data( R.drawable.imag13, "Image 2"));
+        data.add(new Data( R.drawable.imag14, "Image 3"));
+        data.add(new Data( R.drawable.imag15, "Image 1"));
+        data.add(new Data( R.drawable.imag16, "Image 2"));
+        data.add(new Data( R.drawable.imag17, "Image 3"));
 
 
         return data;
