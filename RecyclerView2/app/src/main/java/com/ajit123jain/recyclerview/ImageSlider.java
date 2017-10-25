@@ -16,7 +16,7 @@ public class ImageSlider extends AppCompatActivity {
 
     private static ViewPager mPager;
     private static int currentPage = 0;
-    private static final Integer[] XMEN= {R.drawable.imag1,R.drawable.imag2,R.drawable.imag4,R.drawable.imag5,R.drawable.imag7};
+    private static final Integer[] XMEN= {R.drawable.imag1,R.drawable.imag25,R.drawable.imag23,R.drawable.imag5,R.drawable.imag22};
     private ArrayList<Integer> XMENArray = new ArrayList<Integer>();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
