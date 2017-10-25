@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="info.androidhive.imageslider"
+    package="info.androidhive.imageSlider"
     android:versionCode="1"
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="8"
-        android:targetSdkVersion="17" />
+        android:minSdkVersion="19"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <application
         android:allowBackup="true"
@@ -26,6 +29,10 @@
             android:name="info.androidhive.imageslider.FullScreenViewActivity"
             android:theme="@android:style/Theme.Holo.NoActionBar" >
         </activity>
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.0.2" />
     </application>
 
 </manifest>

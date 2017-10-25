@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/ajit/.android/build-cache/b47eedaa0c4dd7b6056466f8c89229d86cf10ee6/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/ajit/.android/build-cache/6aebfd675373682e4078ab2cdf06fc781e429a98/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/ajit/.android/build-cache/b47eedaa0c4dd7b6056466f8c89229d86cf10ee6/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/ajit/.android/build-cache/b47eedaa0c4dd7b6056466f8c89229d86cf10ee6/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/ajit/.android/build-cache/6aebfd675373682e4078ab2cdf06fc781e429a98/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/ajit/.android/build-cache/6aebfd675373682e4078ab2cdf06fc781e429a98/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/ajit/.android/build-cache/f7fc5f2c121f81144a76443633f71cf51ba89e98/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/ajit/.android/build-cache/6aebfd675373682e4078ab2cdf06fc781e429a98/output/res/drawable-v21/avd_hide_password.xml"
+    }
+]

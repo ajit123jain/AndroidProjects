@@ -7,6 +7,7 @@ import java.util.Locale;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.graphics.Point;
+import android.util.Log;
 import android.view.Display;
 import android.view.WindowManager;
 import android.widget.Toast;
@@ -29,6 +30,8 @@ public class Utils {
 		File directory = new File(
 				android.os.Environment.getExternalStorageDirectory()
 						+ File.separator + AppConstant.PHOTO_ALBUM);
+
+		Log.d("Directory",directory.toString());
 
 		// check for directory
 		if (directory.isDirectory()) {
