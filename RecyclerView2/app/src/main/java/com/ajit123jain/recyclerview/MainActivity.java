@@ -51,21 +51,21 @@ public class MainActivity extends AppCompatActivity {
         data.add(new Data( R.drawable.imag1, "Image 1"));
         data.add(new Data( R.drawable.imag2, "Image 2"));
         data.add(new Data( R.drawable.imag3, "Image 3"));
-        data.add(new Data( R.drawable.imag4, "Image 1"));
-        data.add(new Data( R.drawable.imag6, "Image 2"));
-        data.add(new Data( R.drawable.imag5, "Image 3"));
-        data.add(new Data( R.drawable.imag6, "Image 1"));
-        data.add(new Data( R.drawable.imag7, "Image 2"));
-        data.add(new Data( R.drawable.imag8, "Image 3"));
-        data.add(new Data( R.drawable.imag9, "Image 1"));
-        data.add(new Data( R.drawable.imag10, "Image 2"));
-        data.add(new Data( R.drawable.imag11, "Image 3"));
-        data.add(new Data( R.drawable.imag12, "Image 1"));
-        data.add(new Data( R.drawable.imag13, "Image 2"));
-        data.add(new Data( R.drawable.imag14, "Image 3"));
-        data.add(new Data( R.drawable.imag15, "Image 1"));
-        data.add(new Data( R.drawable.imag16, "Image 2"));
-        data.add(new Data( R.drawable.imag17, "Image 3"));
+        data.add(new Data( R.drawable.imag4, "Image 4"));
+        data.add(new Data( R.drawable.imag5, "Image 5"));
+        data.add(new Data( R.drawable.imag6, "Image 6"));
+        data.add(new Data( R.drawable.imag7, "Image 7"));
+        data.add(new Data( R.drawable.imag8, "Image 8"));
+        data.add(new Data( R.drawable.imag9, "Image 9"));
+        data.add(new Data( R.drawable.imag10, "Image 10"));
+        data.add(new Data( R.drawable.imag11, "Image 11"));
+        data.add(new Data( R.drawable.imag12, "Image 12"));
+        data.add(new Data( R.drawable.imag13, "Image 13"));
+        data.add(new Data( R.drawable.imag14, "Image 14"));
+        data.add(new Data( R.drawable.imag15, "Image 15"));
+        data.add(new Data( R.drawable.imag16, "Image 16"));
+        data.add(new Data( R.drawable.imag17, "Image 17"));
+        data.add(new Data( R.drawable.imag18, "Image 18"));
 
 
         return data;
