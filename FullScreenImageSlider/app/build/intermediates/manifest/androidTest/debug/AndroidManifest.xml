@@ -13,7 +13,7 @@
         android:label="Tests for info.androidhive.imageSlider"
         android:targetPackage="info.androidhive.imageSlider" />
 
-    <application>
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 

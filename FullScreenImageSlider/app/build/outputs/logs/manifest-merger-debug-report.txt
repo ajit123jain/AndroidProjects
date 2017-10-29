@@ -1,6 +1,25 @@
 -- Merging decision tree log ---
 manifest
 ADDED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:design:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/be927884b82091350be918a12d0da3b9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/e1e803f834a43bdb10bfbf61fccf4c92/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/656775f0dc8c5281291c32528f374fae/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/4502c3199efb2c153849eea7a541f931/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:exifinterface:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/exifinterface-26.0.2.aar/1563c842f2d5d3e46af21026f305ab56/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/f4281f8986328db67f60cc6c682cd114/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/0ced751f4667124b4619327a30f50aa4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/d85cef06c750b7f3cf5c2a8613896fa5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/9ee25b1628a00c4b361af6cb28f2bde6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/db9c93cab18bbdc14d359fec5bda72e3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/c6d0831e5d79e57a2a46dbcab3a52802/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/7989e76bb01ed4d621871d0582a78f5a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/0ef14cc879442345f59c5d7a425df809/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:2:1-34:12
 	package
 		ADDED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:3:5-43
 		INJECTED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml
@@ -9,12 +28,12 @@ ADDED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlide
 		ADDED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:5:5-30
 		INJECTED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml
 		INJECTED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
 		ADDED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:4:5-28
 		INJECTED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml
 		INJECTED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml
-	xmlns:android
-		ADDED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:6:5-7:9
 	android:name
@@ -25,21 +44,38 @@ ADDED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlide
 		ADDED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:8:22-78
 uses-sdk
 ADDED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:9:5-11:41
-MERGED from [com.android.support:design:26.0.2] /home/ajit/.android/build-cache/6aebfd675373682e4078ab2cdf06fc781e429a98/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:26.0.2] /home/ajit/.android/build-cache/b47eedaa0c4dd7b6056466f8c89229d86cf10ee6/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:26.0.2] /home/ajit/.android/build-cache/850918341b9b7445dfb2c1da58472a74a4252030/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.2] /home/ajit/.android/build-cache/6eb1e85efaf19e36ab30796c6b27668bf5f866a1/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/ajit/.android/build-cache/bc960155689b8b3f413207268156be71042b04c1/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.0.2] /home/ajit/.android/build-cache/72dbae9ff9b9391aa91a7da53856c0cc7fc9a1e5/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.0.2] /home/ajit/.android/build-cache/4907dfabe8764082f202a8bd72859140c6f5e1b0/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.2] /home/ajit/.android/build-cache/fdd4dc8089f75ca7da7324c0511d9aa60ccdbdb2/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.2] /home/ajit/.android/build-cache/e4045a0433176efbed6990ba5a56a46c36e3e2e4/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.0.2] /home/ajit/.android/build-cache/93dd6d28c4ed4bac1be8937fb20db60289a08dc5/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:26.0.2] /home/ajit/.android/build-cache/418e219c0b0cc3cf4693853f29591c22f68d993d/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:26.0.2] /home/ajit/.android/build-cache/f7fc5f2c121f81144a76443633f71cf51ba89e98/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:exifinterface:26.0.2] /home/ajit/.android/build-cache/48a0c89c03bca79d23bdc2b04e58b46cb234b58f/output/AndroidManifest.xml:20:5-44
+INJECTED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [com.android.support:design:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/be927884b82091350be918a12d0da3b9/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/be927884b82091350be918a12d0da3b9/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/e1e803f834a43bdb10bfbf61fccf4c92/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/e1e803f834a43bdb10bfbf61fccf4c92/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/656775f0dc8c5281291c32528f374fae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/656775f0dc8c5281291c32528f374fae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/4502c3199efb2c153849eea7a541f931/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/4502c3199efb2c153849eea7a541f931/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:exifinterface:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/exifinterface-26.0.2.aar/1563c842f2d5d3e46af21026f305ab56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/exifinterface-26.0.2.aar/1563c842f2d5d3e46af21026f305ab56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/f4281f8986328db67f60cc6c682cd114/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/f4281f8986328db67f60cc6c682cd114/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/0ced751f4667124b4619327a30f50aa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/0ced751f4667124b4619327a30f50aa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/d85cef06c750b7f3cf5c2a8613896fa5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/d85cef06c750b7f3cf5c2a8613896fa5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/9ee25b1628a00c4b361af6cb28f2bde6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/9ee25b1628a00c4b361af6cb28f2bde6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/db9c93cab18bbdc14d359fec5bda72e3/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/db9c93cab18bbdc14d359fec5bda72e3/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/c6d0831e5d79e57a2a46dbcab3a52802/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/c6d0831e5d79e57a2a46dbcab3a52802/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/7989e76bb01ed4d621871d0582a78f5a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/7989e76bb01ed4d621871d0582a78f5a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/0ef14cc879442345f59c5d7a425df809/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/0ef14cc879442345f59c5d7a425df809/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:9:5-11:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.0.2] /home/ajit/.android/build-cache/6aebfd675373682e4078ab2cdf06fc781e429a98/output/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/be927884b82091350be918a12d0da3b9/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		ADDED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:11:9-38
 		INJECTED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml
@@ -50,25 +86,38 @@ MERGED from [com.android.support:exifinterface:26.0.2] /home/ajit/.android/build
 		INJECTED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml
 application
 ADDED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:13:5-32:19
-MERGED from [com.android.support:design:26.0.2] /home/ajit/.android/build-cache/6aebfd675373682e4078ab2cdf06fc781e429a98/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.0.2] /home/ajit/.android/build-cache/b47eedaa0c4dd7b6056466f8c89229d86cf10ee6/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:animated-vector-drawable:26.0.2] /home/ajit/.android/build-cache/850918341b9b7445dfb2c1da58472a74a4252030/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.0.2] /home/ajit/.android/build-cache/6eb1e85efaf19e36ab30796c6b27668bf5f866a1/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/ajit/.android/build-cache/bc960155689b8b3f413207268156be71042b04c1/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.0.2] /home/ajit/.android/build-cache/72dbae9ff9b9391aa91a7da53856c0cc7fc9a1e5/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.0.2] /home/ajit/.android/build-cache/4907dfabe8764082f202a8bd72859140c6f5e1b0/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.0.2] /home/ajit/.android/build-cache/fdd4dc8089f75ca7da7324c0511d9aa60ccdbdb2/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.0.2] /home/ajit/.android/build-cache/e4045a0433176efbed6990ba5a56a46c36e3e2e4/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.0.2] /home/ajit/.android/build-cache/93dd6d28c4ed4bac1be8937fb20db60289a08dc5/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.0.2] /home/ajit/.android/build-cache/418e219c0b0cc3cf4693853f29591c22f68d993d/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.0.2] /home/ajit/.android/build-cache/f7fc5f2c121f81144a76443633f71cf51ba89e98/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:exifinterface:26.0.2] /home/ajit/.android/build-cache/48a0c89c03bca79d23bdc2b04e58b46cb234b58f/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:design:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/be927884b82091350be918a12d0da3b9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/be927884b82091350be918a12d0da3b9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/e1e803f834a43bdb10bfbf61fccf4c92/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/e1e803f834a43bdb10bfbf61fccf4c92/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/656775f0dc8c5281291c32528f374fae/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/656775f0dc8c5281291c32528f374fae/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/4502c3199efb2c153849eea7a541f931/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/4502c3199efb2c153849eea7a541f931/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:exifinterface:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/exifinterface-26.0.2.aar/1563c842f2d5d3e46af21026f305ab56/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:exifinterface:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/exifinterface-26.0.2.aar/1563c842f2d5d3e46af21026f305ab56/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/f4281f8986328db67f60cc6c682cd114/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/f4281f8986328db67f60cc6c682cd114/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/0ced751f4667124b4619327a30f50aa4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/0ced751f4667124b4619327a30f50aa4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/d85cef06c750b7f3cf5c2a8613896fa5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/d85cef06c750b7f3cf5c2a8613896fa5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/9ee25b1628a00c4b361af6cb28f2bde6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/9ee25b1628a00c4b361af6cb28f2bde6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/db9c93cab18bbdc14d359fec5bda72e3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/db9c93cab18bbdc14d359fec5bda72e3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/c6d0831e5d79e57a2a46dbcab3a52802/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/c6d0831e5d79e57a2a46dbcab3a52802/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/7989e76bb01ed4d621871d0582a78f5a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/7989e76bb01ed4d621871d0582a78f5a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/0ef14cc879442345f59c5d7a425df809/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/0ef14cc879442345f59c5d7a425df809/AndroidManifest.xml:25:5-29:19
 	android:label
 		ADDED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:16:9-41
-	android:allowBackup
-		ADDED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:14:9-35
 	android:icon
 		ADDED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:15:9-45
+	android:allowBackup
+		ADDED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:14:9-35
 	android:theme
 		ADDED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:17:9-40
 activity#info.androidhive.imageslider.GridViewActivity
@@ -94,20 +143,32 @@ ADDED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlide
 	android:name
 		ADDED from /home/ajit/AndroidStudioProjects/AndroidProjects/FullScreenImageSlider/app/src/main/AndroidManifest.xml:29:13-79
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.0.2] /home/ajit/.android/build-cache/6aebfd675373682e4078ab2cdf06fc781e429a98/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:appcompat-v7:26.0.2] /home/ajit/.android/build-cache/b47eedaa0c4dd7b6056466f8c89229d86cf10ee6/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.0.2] /home/ajit/.android/build-cache/850918341b9b7445dfb2c1da58472a74a4252030/output/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.0.2] /home/ajit/.android/build-cache/6eb1e85efaf19e36ab30796c6b27668bf5f866a1/output/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/ajit/.android/build-cache/bc960155689b8b3f413207268156be71042b04c1/output/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:transition:26.0.2] /home/ajit/.android/build-cache/72dbae9ff9b9391aa91a7da53856c0cc7fc9a1e5/output/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.0.2] /home/ajit/.android/build-cache/4907dfabe8764082f202a8bd72859140c6f5e1b0/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.0.2] /home/ajit/.android/build-cache/fdd4dc8089f75ca7da7324c0511d9aa60ccdbdb2/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.0.2] /home/ajit/.android/build-cache/e4045a0433176efbed6990ba5a56a46c36e3e2e4/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.0.2] /home/ajit/.android/build-cache/93dd6d28c4ed4bac1be8937fb20db60289a08dc5/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.0.2] /home/ajit/.android/build-cache/418e219c0b0cc3cf4693853f29591c22f68d993d/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.0.2] /home/ajit/.android/build-cache/f7fc5f2c121f81144a76443633f71cf51ba89e98/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:exifinterface:26.0.2] /home/ajit/.android/build-cache/48a0c89c03bca79d23bdc2b04e58b46cb234b58f/output/AndroidManifest.xml:23:9-25:38
+ADDED from [com.android.support:design:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/be927884b82091350be918a12d0da3b9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/e1e803f834a43bdb10bfbf61fccf4c92/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/e1e803f834a43bdb10bfbf61fccf4c92/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/656775f0dc8c5281291c32528f374fae/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/656775f0dc8c5281291c32528f374fae/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/4502c3199efb2c153849eea7a541f931/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/4502c3199efb2c153849eea7a541f931/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:exifinterface:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/exifinterface-26.0.2.aar/1563c842f2d5d3e46af21026f305ab56/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:exifinterface:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/exifinterface-26.0.2.aar/1563c842f2d5d3e46af21026f305ab56/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/f4281f8986328db67f60cc6c682cd114/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/f4281f8986328db67f60cc6c682cd114/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/0ced751f4667124b4619327a30f50aa4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/0ced751f4667124b4619327a30f50aa4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/d85cef06c750b7f3cf5c2a8613896fa5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/d85cef06c750b7f3cf5c2a8613896fa5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/9ee25b1628a00c4b361af6cb28f2bde6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/9ee25b1628a00c4b361af6cb28f2bde6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/db9c93cab18bbdc14d359fec5bda72e3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/db9c93cab18bbdc14d359fec5bda72e3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/c6d0831e5d79e57a2a46dbcab3a52802/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/c6d0831e5d79e57a2a46dbcab3a52802/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/7989e76bb01ed4d621871d0582a78f5a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/7989e76bb01ed4d621871d0582a78f5a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/0ef14cc879442345f59c5d7a425df809/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/0ef14cc879442345f59c5d7a425df809/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:design:26.0.2] /home/ajit/.android/build-cache/6aebfd675373682e4078ab2cdf06fc781e429a98/output/AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:design:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/be927884b82091350be918a12d0da3b9/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:design:26.0.2] /home/ajit/.android/build-cache/6aebfd675373682e4078ab2cdf06fc781e429a98/output/AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:design:26.0.2] /home/ajit/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/be927884b82091350be918a12d0da3b9/AndroidManifest.xml:27:13-51
