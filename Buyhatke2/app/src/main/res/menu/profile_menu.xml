@@ -8,8 +8,8 @@
         android:orderInCategory="100"
         app:showAsAction="never" />
     <item
-        android:id="@+id/img_carousal"
-        android:title="@string/img_carousal"
+        android:id="@+id/pagination"
+        android:title="Pagination"
         android:orderInCategory="100"
         app:showAsAction="never" />
     <item

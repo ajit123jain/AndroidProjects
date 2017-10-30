@@ -74,11 +74,12 @@ public class UserProfile extends AppCompatActivity implements FragmentDrawer.Fra
         if (id == R.id.action_settings) {
             return true;
         }
-        /*if(id == R.id.img_carousal){
-            startActivity(new Intent(UserProfile.this,ImageCarousal.class));
+        if(id == R.id.pagination){
+            startActivity(new Intent(UserProfile.this,PaginationActivity.class));
 
             return true;
         }
+        /*
         if(id == R.id.gallery){
             startActivity(new Intent(UserProfile.this,Gallery.class));
 
