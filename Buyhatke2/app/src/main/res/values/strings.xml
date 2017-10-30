@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Buyhatke2</string>
+    <string name="facebook_app_id">346759099129727</string>
+    <string name="fb_login_protocol_scheme">fb346759099129727</string>
+</resources>

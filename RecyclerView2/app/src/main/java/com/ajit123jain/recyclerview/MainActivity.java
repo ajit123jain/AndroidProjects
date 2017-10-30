@@ -167,7 +167,7 @@ public class MainActivity extends AppCompatActivity {
 
     // Display the Grid
     private void initGridDisplay(){
-        GridLayoutManager layoutManager = new GridLayoutManager(this, 2);
+        GridLayoutManager layoutManager = new GridLayoutManager(this, 3);
         layoutManager.setOrientation(GridLayoutManager.VERTICAL);
         horizontal_recycler_view.setLayoutManager(layoutManager);
     }
