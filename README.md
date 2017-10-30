@@ -27,6 +27,15 @@ All Android Project that will cover basics of android.
 - On/Off Wifi and find all the devices list
 - [Download Apk](https://drive.google.com/open?id=0B6r8JHHtCwSacWc4dV9XV1VRVEE)
 
+## [Buyhatke2](Buyhatke2)
+- Login With Facebook 
+- Fectch profile and User Profile pic and Personal Email
+- Onclick menu see  Pagination 
+- Where Loading more Data from TMDB API 
+- [Download Apk](https://drive.google.com/open?id=0B6r8JHHtCwSabE9vLWc5anFEa0U)
+
+
+
 
 
 
